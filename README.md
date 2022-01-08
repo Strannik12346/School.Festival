@@ -1,3 +1,4 @@
-# Festival_HTML_CSS_JS
--> Site developed for a competition at school
--> Yes, the topic and images were given
+# Site for the festival at school
+- There was a festival once dedicated to kites
+- A competition was held to create a site for this festival
+- And I won there Dyploma II - silver medal :)
